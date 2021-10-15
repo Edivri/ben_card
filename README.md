@@ -2,4 +2,4 @@
 
 ##My Business Card
 
-<img src="images/sshot.png" >
+<img src="images/sshot.png" width="400" height="790">
